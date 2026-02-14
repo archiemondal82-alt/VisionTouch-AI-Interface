@@ -1,3 +1,4 @@
+![Project Cover](Vision%20Cover%20iage.png)
 # VisionTouch: Contactless HCI Interface 🖱️✋
 
 VisionTouch is a computer vision-based Human-Computer Interaction (HCI) tool that replaces physical input devices with real-time hand gesture recognition. Designed for sterile environments (hospitals) and accessible computing.
@@ -26,3 +27,4 @@ $$x_{screen} = \text{np.interp}(x_{cam}, [padding, w_{cam}-padding], [0, w_{scre
 1. Download the latest release from the `dist` folder.
 2. Run `ai_mouse.exe`.
 3. Press **'q'** to quit the application.
+
